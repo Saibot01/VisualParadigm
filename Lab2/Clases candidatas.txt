@@ -1,0 +1,30 @@
+Libros
+Copias Libros
+Autores
+Devolucion
+Prestamo
+Multas
+Lectores
+Alumnos
+Facultad
+Sistema Academico
+Bibliotecarios
+Administradores
+Usuario
+Biblioteca
+
+Clases que quedan:
+Lectores
+Libros
+Autores
+Copias Libros
+Devolucion
+Prestamo
+Multas
+Administradores
+Bibliotecarios
+Permiso de usuario/validar usuario/Login
+Detalle Prestamo (Puede ser)
+
+
+
